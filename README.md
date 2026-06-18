@@ -131,7 +131,7 @@ Oddpool aggregates cross-venue prediction market data across platforms like Poly
 - [Pricediction](https://web3-pricediction.vercel.app/?utm_source=polymark.et) — AI-powered prediction market toolkit for deep research, automatic analysis, and direct trading on Kalshi and Polymarket.
 - [BetterAI](https://betterai.tools/?utm_source=polymark.et) — Multi-model AI-driven prediction platform delivering real-time, explainable insights for Polymarket and Kalshi.
 - [Polysimplr](https://www.polysimplr.com/?utm_source=polymark.et) — A user-friendly Polymarket interface with AI-powered chat and analysis—making prediction markets more accessible for all.
-- [Prediedge](#) — Real-time analytics and whale tracking platform for Polymarket and Kalshi, spotlighting large trades, insider activity, and market signals.
+- [Prediedge](https://prediedge.com) — Real-time analytics and whale tracking platform for Polymarket and Kalshi, spotlighting large trades, insider activity, and market signals.
 - [PolyScan](https://polyscan.bet/?utm_source=polymark.et) — Prediction markets terminal for real-time tracking of top traders, liquidity flows, and actionable Polymarket analytics.
 - [Wethr](https://wethr.net/?utm_source=polymark.et) — Advanced real-time weather analytics platform optimized for Polymarket and Kalshi climate and temperature traders.
 - [Polytrend](https://www.polytrend.xyz/?utm_source=polymark.et) — Analytics platform providing whale tracking, market insights, and upcoming autonomous trading capabilities for Polymarket prediction markets.
