@@ -226,7 +226,7 @@ Oddpool aggregates cross-venue prediction market data across platforms like Poly
 
 ## 🟪 Others
 
-- [Kaito](https://yaps.kaito.ai/infomarkets?utm_source=polymark.et) — Web3 information platform tracking mindshare across multiple prediction market platforms with real-time analytics and creator leaderboards.
+- [Kaito](https://kaito.ai/?utm_source=polymark.et) — Web3 information platform tracking mindshare across multiple prediction market platforms with real-time analytics and creator leaderboards.
 - [Cookie fun](https://www.cookie.fun/tokens/polymarket?utm_source=polymark.et) — cookie.fun is the index & data layer for all AI agents shows top gainers regarding mindshare, smart following, engagement, and onchain data.
 - [Prediction Index](https://predictionindex.xyz/?utm_source=polymark.et) — Largest real-time directory and ranking dashboard for prediction markets—track, filter, and discover 140+ projects by chain, type, and status.
 - [Dexu](https://dexu.ai/project/polymarket?id=2037&utm_source=polymark.et) — AI-driven analytics platform for early trend detection and social attention quantification across prediction markets and crypto narratives.
